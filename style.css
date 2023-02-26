@@ -1,0 +1,14 @@
+h1{
+    display: flex;
+    justify-content: center;
+    color: rgb(2, 104, 104);
+    
+}
+ul{
+    display:flex;
+    justify-content: space-around;
+    list-style-type: none;
+    text-decoration: none;
+    
+    
+}
